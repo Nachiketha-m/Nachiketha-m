@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 I’m looking for help with open source contributions.<br>🌱 I’m currently learning ReactJS,C++(End goal for low latency software);ML applications<br><br>📫 How to reach me? nachhu2003@gmail.com
+🤝 I’m looking for help with open source contributions.<br>🌱 I’m currently learning ReactJS,C++;ML applications<br><br>📫 How to reach me? nachhu2003@gmail.com
 
 
 # 💻 Tech Stack:
